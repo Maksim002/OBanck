@@ -1,0 +1,57 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@android:color/transparent</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:colorBackground">@color/background</item>
+
+        <!-- Text -->
+        <item name="colorError">@color/error</item>
+        <item name="colorOnError">@color/error</item>
+        <item name="android:textColorPrimary">@color/body</item>
+
+        <!-- Button -->
+        <item name="materialButtonStyle">@style/AppButton</item>
+        <item name="materialButtonOutlinedStyle">@style/AppOutlinedButton</item>
+    </style>
+
+    <!--Toolbar-->
+    <style name="CollapsingToolbarAppearanceLarge" parent="@android:style/TextAppearance.Large">
+        <item name="android:textSize">34sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="ToolBarStyle" parent="Widget.MaterialComponents.Toolbar">
+        <item name="android:textColorPrimary">@color/title</item>
+        <item name="android:textColorSecondary">@color/title</item>
+        <item name="actionMenuTextColor">@color/title</item>
+    </style>
+
+    <style name="textInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/text_input_box_stroke</item>
+        <item name="boxStrokeWidth">2dp</item>
+    </style>
+
+    <style name="spinTextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu">
+        <item name="boxStrokeColor">@color/text_input_box_stroke</item>
+        <item name="boxStrokeWidth">2dp</item>
+    </style>
+
+
+    <style name="AppBottomSheetDialogTheme"
+        parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="bottomSheetStyle">@style/AppModalStyle</item>
+    </style>
+
+    <style name="AppModalStyle"
+        parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@drawable/bg_top_rounded_main_color_10dp</item>
+    </style>
+
+</resources>

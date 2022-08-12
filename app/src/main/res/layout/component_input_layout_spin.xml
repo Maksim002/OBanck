@@ -1,0 +1,19 @@
+<com.google.android.material.textfield.TextInputLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/postTextOut"
+    style="@style/spinTextInputLayoutStyle"
+    android:layout_width="match_parent"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:padding="@dimen/offset_16"
+    android:layout_height="wrap_content">
+
+    <AutoCompleteTextView
+        android:id="@+id/postText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/offset_16"
+        android:inputType="none"
+        tools:ignore="LabelFor" />
+
+</com.google.android.material.textfield.TextInputLayout>

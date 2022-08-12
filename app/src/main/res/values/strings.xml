@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">"OBank"</string>
+    <string name="main_url_label">"www.obank.com.ua"</string>
+
+    <!--Common-->
+    <string name="general_server_exception">"Ведуться технічні роботи. Спробуйте через 10 хв"</string>
+    <string name="general_loading_error">"Невідома помилка при отриманні даних"</string>
+    <string name="permission_internet_description">"Перевірте доступ до інтернету"</string>
+    <string name="try_again_label">"Спробувати ще"</string>
+    <string name="warning_label">"Увага!"</string>
+    <string name="account_blocked_title_label">"Дуже шкода :("</string>
+    <string name="account_blocked_description_label">"Ваш фінансовий номер заблоковано. Зверніться до найближчого відділення банку."</string>
+    <string name="app_install_label">"Встановіть додаток"</string>
+    <string name="app_update_version_label">"Для користування O.Bank будь ласка встановіть іншу версію додатку"</string>
+    <string name="install_label">"Встановити"</string>
+    <string name="change_phone_enter_title">"Помічено зміну мобільного пристрою"</string>
+    <string name="error_label">"Помилка"</string>
+    <string name="general_button_ok">"OK"</string>
+    <string name="general_cancel">"Скасувати"</string>
+    <string name="skip">"Пропустити"</string>
+    <string name="next">"Далі"</string>
+
+    <!--Form-->
+    <string name="form_title">Заповніть анкету</string>
+    <string name="form_bottom_sheet_dialog_message">Продовжуючи, Ви погоджуєтесь на перевірку даних в Бюро Кредитних Історій та Кредитному реєстрі НБУ</string>
+    <string name="form_accept_check_box_text">Підтверджую</string>
+
+    <!--MenuString-->
+    <string name="menu_item_info">"Інформація"</string>
+</resources>

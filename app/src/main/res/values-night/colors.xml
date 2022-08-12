@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BE2987</color>
+    <color name="colorPrimaryDark">#771854</color>
+    <color name="colorAccent">#BE2987</color>
+
+    <!--main-->
+    <color name="accent">#BE2987</color>
+    <color name="background">#212121</color>
+    <color name="mainTint">#FFFFFF</color>
+
+    <!--text-->
+    <color name="title">#FFFFFF</color>
+    <color name="body">#D6D6D6</color>
+    <color name="description">#B6B6B6</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+    <color name="outlinedButtonTextColor">#BE2987</color>
+    <color name="cardBackgroundColor">#424242</color>
+
+    <!--surface-->
+    <color name="grey_surface">#424242</color>
+
+    <!--page indicator-->
+    <color name="indicator_enable">#C7C7CC</color>
+    <color name="indicator_disable">#4DC7C7CC</color>
+
+    <!--signature-->
+    <color name="signature_container_color">#424242</color>
+    <color name="signature_text_container_color">#FFFFFF</color>
+    <color name="background_color_disabled">#424242</color>
+
+</resources>

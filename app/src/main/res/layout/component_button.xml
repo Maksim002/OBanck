@@ -1,0 +1,14 @@
+<com.google.android.material.button.MaterialButton
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bottomComponent"
+    style="?attr/materialButtonOutlinedStyle"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginEnd="5dp"
+    android:layout_weight="1"
+    android:textAllCaps="false"
+    android:textColor="@color/title"
+    app:cornerRadius="@dimen/offset_6"
+    app:strokeColor="@color/box_signature_stroke_color"
+    app:strokeWidth="2dp"/>

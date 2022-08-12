@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BE2987</color>
+    <color name="colorPrimaryDark">#771854</color>
+    <color name="colorAccent">#BE2987</color>
+
+    <!--main-->
+    <color name="accent">#BE2987</color>
+    <color name="background">#F2F2F7</color>
+    <color name="mainTint">#212121</color>
+    <color name="ripple">#CACACA</color>
+
+    <!--text-->
+    <color name="title">#212121</color>
+    <color name="body">#424242</color>
+    <color name="description">#616161</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+    <color name="outlinedButtonTextColor">#BE2987</color>
+    <color name="cardBackgroundColor">#FFFFFF</color>
+    <color name="progressBackgroundTint">#F1A4D4</color>
+
+    <!--content-->
+    <color name="error">#F44336</color>
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF8F00</color>
+
+    <!--surface-->
+    <color name="grey_surface">#E5E5EA</color>
+
+    <!--common-->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#4CAF50</color>
+    <color name="red">#F44336</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <!--page indicator-->
+    <color name="indicator_enable">#757575</color>
+    <color name="indicator_disable">#4D757575</color>
+
+    <!--signature-->
+    <color name="signature_pen_color">#6B6B6B</color>
+    <color name="signature_container_color">#FFFFFF</color>
+    <color name="signature_text_container_color">#212121</color>
+    <color name="signature_stroke_color">#AEAEB2</color>
+    <color name="box_signature_stroke_color">#AEAEB2</color>
+    <color name="background_color_disabled">#D1D5DB</color>
+
+</resources>

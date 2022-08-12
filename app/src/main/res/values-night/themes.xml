@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:colorBackground">@color/background</item>
+
+        <!-- Text -->
+        <item name="colorError">@color/error</item>
+        <item name="colorOnError">@color/error</item>
+
+        <!-- Button -->
+        <item name="materialButtonStyle">@style/AppButton</item>
+        <item name="materialButtonOutlinedStyle">@style/AppOutlinedButton</item>
+    </style>
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="offset_4">4dp</dimen>
+    <dimen name="offset_6">6dp</dimen>
+    <dimen name="offset_8">8dp</dimen>
+    <dimen name="offset_10">10dp</dimen>
+    <dimen name="offset_12">12dp</dimen>
+    <dimen name="offset_14">14dp</dimen>
+    <dimen name="offset_16">16dp</dimen>
+    <dimen name="offset_18">18dp</dimen>
+    <dimen name="offset_20">20dp</dimen>
+    <dimen name="offset_24">24dp</dimen>
+    <dimen name="offset_25">25dp</dimen>
+    <dimen name="offset_26">26dp</dimen>
+    <dimen name="offset_28">28dp</dimen>
+    <dimen name="offset_30">30dp</dimen>
+    <dimen name="offset_40">40dp</dimen>
+    <dimen name="offset_50">50dp</dimen>
+    <dimen name="offset_60">60dp</dimen>
+
+
+    <dimen name="size_12">12sp</dimen>
+    <dimen name="size_14">14sp</dimen>
+    <dimen name="size_16">16sp</dimen>
+    <dimen name="size_17">17sp</dimen>
+    <dimen name="size_18">18sp</dimen>
+    <dimen name="size_20">20sp</dimen>
+    <dimen name="size_22">22sp</dimen>
+    <dimen name="size_25">25sp</dimen>
+
+</resources>
